@@ -13,4 +13,5 @@
 
 ## Create registration form to apply Health Insurance Plan
 
-![ApplicationRegistration](https://github.com/felixala/10_AR_APP/blob/master/src/main/resources/templates/screenshots/applicationRegistration.jpeg)
+![ApplicationRegistration](https://github.com/felixala/10_AR_APP/blob/main/src/main/resources/templates/screenshots/applicationRegistration.jpeg)
+
